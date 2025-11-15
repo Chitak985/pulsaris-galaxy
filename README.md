@@ -3,7 +3,7 @@
 A Kopernicus planet pack that adds an entire new galaxy to explore! Discover black holes, pulsars, and many types of stars, all with custom planets orbiting them! <br>
 
 <h2>Galactic Tree:</h2>
-
+<strong>All bodies with a number still need a name.</strong><br><br>
 Plesarbek <br>
 _Nulsaris & Eulsaris & Sulsaris & Wulsaris <br>
 _Alferno <br>
@@ -32,11 +32,136 @@ __Atmo2 <br>
 ___Vamol <br>
 __Dwareo & Dwarea <br>
 ___Embit <br>
-_hole2 <br> ..
-_Rd2 <br> ..
-_P1 <br> ..
-_P2 <br> ..
-_Rg1 & Sun1 & Rg2 & Pro1 <br> ..
-_hole3 & hole4 <br> ..
-_Pu3 <br> ..
-_Sun2 & Pro2 & Disject <br> ..
+_Blo-Plo-Mlo <br>
+__Hawkole <br>
+__Rablatric <br>
+__Minulim <br>
+___Clusole <br>
+___Faneole <br>
+_Warirclemo <br>
+__Rock37 <br>
+__Rock38 <br>
+__Atmo4 <br>
+___Rock39 <br>
+__Atmo5 <br>
+__Gadaled <br>
+___Rock40 <br>
+___Rock42 <br>
+___Rock41 <br>
+_Kormin <br>
+__Rock21 <br>
+__Rock22 <br>
+__Comatmulsa <br>
+___Rock24 <br>
+___Rock25 <br>
+___Rock26 <br>
+___Atmo3 <br>
+_Karmin <br>
+__Rock27 <br>
+__Rock28 <br>
+__Rock29 <br>
+_Quadeding <br>
+__Rock72 <br>
+__Rock73 <br>
+__Atmo10 <br>
+__Rock74 <br>
+__Fillianingated <br>
+___Rock75 <br>
+___Atmo11 <br>
+___Rock76 <br>
+__Rock77 <br>
+_Quadunarge <br>
+__Rock84 <br>
+__Atmo13 <br>
+__Atmo14 <br>
+___Rock85 <br>
+__Rock86 <br>
+___Rock87 <br>
+__Kerjoonot <br>
+___Rock88 <br>
+___Rock89 <br>
+___Rock90 <br>
+__Secoptune <br>
+___Rock91 <br>
+___Rock92 <br>
+___Rock93 <br>
+__Rock94 <br>
+_Quadedentric <br>
+__Rock78 <br>
+__Rock79 <br>
+___Rock80 <br>
+__Atmo12 <br>
+___Rock81 <br>
+___Rock82 <br>
+__Rock83
+_Protostar1 <br>
+__Rock43 <br>
+__Rock44 <br>
+__Atmo6 <br>
+__Rock45 <br>
+__Atmo7 <br>
+___Rock46 <br>
+__Rock47 <br>
+_Blarodole <br>
+__Rock48 <br>
+__Rock49 <br>
+__Stabulide <br>
+___Rock50 <br>
+___Rock51 <br>
+___Rock52 <br>
+__Neumack <br>
+___Rock53 <br>
+___Rock54 <br>
+__Roximinary <br>
+___Rock55 & Rock56 <br>
+___Rock57 <br>
+___Rock58 <br>
+__Frogasdalole <br>
+___Rock59 <br>
+___Rock60 <br>
+___Rock61 <br>
+__Rock62 <br>
+_Blaranole <br>
+__Eccetintrity <br>
+___Rock70 <br>
+__Rock63 <br>
+___Rock64 <br>
+__Lobigen & Losmen <br>
+___Rock65 <br>
+__Nerbole <br>
+___Rock66 <br>
+___Atmo8 <br>
+___Atmo9 <br>
+___Nestidabol <br>
+____Rock67 <br>
+____Rock68 <br>
+____Rock69 <br>
+__Rock71
+_Sularenetric <br>
+__Rock34 <br>
+__Rock35 & Rock36 <br>
+_Weisutric <br>
+__Rock102 <br>
+__Atmo15 <br>
+__Congasiant <br>
+___Rock103 <br>
+___Rock104 <br>
+___Rock105 <br>
+__Smouten <br>
+___Rock106 <br>
+___Rock107 <br>
+___Rock108 <br>
+__Rock109
+_Protostar2 <br>
+__Rock95 <br>
+__Rock96 <br>
+__Atmo14 <br>
+__Atmo15 <br>
+___Rock97 <br>
+__Rock98 <br>
+__Rinounozen <br>
+___Rock99 <br>
+___Rock100 <br>
+___Rock101 <br>
+_Disject <br>
+__Fazenio <br>
