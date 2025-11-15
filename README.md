@@ -5,7 +5,10 @@ A Kopernicus planet pack that adds an entire new galaxy to explore! Discover bla
 <h2>Galactic Tree:</h2>
 <strong>All bodies with a number still need a name.</strong><br><br>
 Plesarbek <br>
-_Nulsaris & Eulsaris & Sulsaris & Wulsaris <br>
+_Nulsaris <br>
+_Eulsaris <br>
+_Sulsaris <br>
+_Wulsaris <br>
 _Alferno <br>
 _Plapilit <br>
 _Ti <br>
@@ -93,7 +96,7 @@ ___Rock80 <br>
 __Atmo12 <br>
 ___Rock81 <br>
 ___Rock82 <br>
-__Rock83
+__Rock83 <br>
 _Protostar1 <br>
 __Rock43 <br>
 __Rock44 <br>
@@ -136,7 +139,7 @@ ___Nestidabol <br>
 ____Rock67 <br>
 ____Rock68 <br>
 ____Rock69 <br>
-__Rock71
+__Rock71 <br>
 _Sularenetric <br>
 __Rock34 <br>
 __Rock35 & Rock36 <br>
@@ -151,7 +154,7 @@ __Smouten <br>
 ___Rock106 <br>
 ___Rock107 <br>
 ___Rock108 <br>
-__Rock109
+__Rock109 <br>
 _Protostar2 <br>
 __Rock95 <br>
 __Rock96 <br>
