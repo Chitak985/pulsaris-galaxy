@@ -3,29 +3,29 @@
 A Kopernicus planet pack that adds an entire new galaxy to explore! Discover black holes, pulsars, and many types of stars, all with custom planets orbiting them! 
 
 ## Galactic Tree:
-Pulsaris 
-- Nulsaris 
-- Eulsaris 
-- Sulsaris 
-- Wulsaris 
-- Alferno 
-- Plapilit 
-- Ti 
-  - Radiceho 
-  - Renoch 
-    - Horemo 
-    - Neroid 
-- Cloritor 
-  - Neutock 
-  - Giatronas 
-    - Tianatron 
-    - Odonoylo 
-  - Frotia 
-- Iriprox 
-  - Rozen 
-- Smarfined 
-  - Revarf 
-  - Miwariant 
+Pulsaris (Black Hole)
+- Nulsaris (Pulsar)
+- Eulsaris (Pulsar)
+- Sulsaris (Pulsar)
+- Wulsaris (Pulsar)
+- Alferno (Vacuum Planet)
+- Plapilit (Vacuum Planet)
+- Ti (Black Hole)
+  - Radiceho (Vacuum Planet)
+  - Renoch (Red Dwarf)
+    - Horemo (Atmospheric Planet)
+    - Neroid (Vacuum Planet)
+- Cloritor (Neutron Star)
+  - Neutock (Vacuum Planet)
+  - Giatronas (Gas Giant)
+    - Tianatron (Vacuum Planet)
+    - Odonoylo (Vacuum Planet)
+  - Frotia (Vacuum Planet)
+- Iriprox (Vacuum Planet)
+  - Rozen (Vacuum Planet)
+- Smarfined (Red Dwarf)
+  - Revarf (Vacuum Planet)
+  - Miwariant (Gas Giant)
     - Potridal 
     - Valena 
     - Valeno 
@@ -34,13 +34,13 @@ Pulsaris
     - Vamol 
   - Dwareo & Dwarea 
     - Embit 
-- Blo-Plo-Mlo 
+- Blo-Plo-Mlo (Black Hole)
   - Hawkole 
   - Rablatric 
   - Minulim 
     - Clusole 
     - Faneole 
-- Warirclemo 
+- Warirclemo (Red Dwarf)
   - Clotarf 
   - Nermed 
   - Wamock 
@@ -50,120 +50,121 @@ Pulsaris
     - Inastid 
     - Actle 
     - Ormiol 
-- Kormin EEEEEEEEEEEEEE 
-  - Clusen 
-  - Anmin 
-  - Comatmulsa 
-    - Clial 
-    - Boial 
-    - Tyial 
-    - Thathe 
-- Karmin 
-  - Wesatric 
-  - Mindul 
-  - Tyarzen 
-- Quadeding 
-  - Mogiot 
-  - Lemogi 
-  - Duotara 
-  - Gike 
-  - Fillianingated 
-    - Inaslo 
-    - Rinayar 
-    - Linar 
-  - Melus 
-- Quadunarge 
-  - Holose 
-  - Evtrast 
-  - Barbinar 
-    - Reluma 
-  - Bickar 
-    - Liros 
-  - Kerjoonot 
-    - Nidalose 
-    - Poreabi 
-    - Gialoo 
-  - Secoptune 
-    - Niofay 
-    - Niodam 
-    - Unlylo 
-  - Eenal 
-- Quadedentric 
-  - Kiha 
-  - Rowira 
-    - Rorouro 
-  - Magiad 
-    - Intelocep 
-    - Minolod 
-  - Nomefa 
-- Quadung 
-  - Dechast 
-  - Noviond 
-  - Innostan 
-  - Mimiri 
-  - Keproter 
-    - Muproteb 
-  - Faritor 
-- Blarodole 
-  - Siolese 
-  - Hoplitrast 
-  - Stabulide 
-    - Firesulsa 
-    - Minefi 
-    - Fapulole 
-  - Neumack 
-    - Uneustab 
-    - Ictror 
-  - Roximinary 
-    - Proxina & Proxino 
-    - Slentes 
-    - Fazular 
-  - Frogasdalole 
-    - Ilayck 
-    - Pocemi 
-    - Frylowo 
-  - Maricy 
-- Blaranole 
-  - Eccetintrity 
-    - Unsaosar 
-  - Remound 
-    - Lima 
-  - Lobigen & Losmen 
-    - Infaos 
-  - Nerbole 
-    - Malole 
-    - Hosust 
-    - Conolun 
-    - Nestidabol 
-      - Laroxeven 
-      - Bocke 
-      - Lynoi 
-  - Lorole 
-- Sularenetric 
-  - Unstalose 
-  - Punaro & Punara 
-- Weisutric 
-  - Kerarr 
-  - Inamma 
-  - Congasiant 
-    - Lantrird 
-    - Potimoo 
-    - Tilos 
-  - Smouten 
-    - Crinne 
-    - Beelop 
-    - Tinor 
-  - Laloo 
-- Younoring 
-  - Yoarr 
-  - Ihivin 
-  - Barbinar 
-  - Inamma 
-    - Othup 
-  - Dedrewo 
-  - Rinounozen 
-    - Thockin 
-    - Eendrol 
-    - Loziloo 
-- Disject 
-  - Fazenio 
+- Kormin (Pulsar)
+  - Clusen (Vacuum Planet)
+  - Anmin (Vacuum Planet)
+  - Comatmulsa (Gas Giant)
+    - Clial (Vacuum Planet)
+    - Boial (Vacuum Planet)
+    - Tyial (Vacuum Planet)
+    - Thathe (Atmospheric Planet)
+  - Puraz (Vacuum Planet)
+- Karmin (Pulsar)
+  - Wesatric (Vacuum Planet)
+  - Mindul (Vacuum Planet)
+  - Tyarzen (Vacuum Planet)
+- Quadeding (Red Giant)
+  - Mogiot (Vacuum Planet)
+  - Lemogi  (Vacuum Planet)
+  - Duotara (Atmospheric Planet)
+    - Gike  (Vacuum Planet)
+  - Fillianingated (Gas Giant)
+    - Inaslo  (Vacuum Planet)
+    - Rinayar (Atmospheric Planet)
+    - Linar (Vacuum Planet)
+  - Melus (Vacuum Planet)
+- Quadunarge (Sun-like Star)
+  - Holose (Vacuum Planet)
+  - Evtrast (Atmospheric Planet)
+  - Barbinar (Atmospheric Planet)
+    - Reluma (Vacuum Planet)
+  - Bickar (Vacuum Planet)
+    - Liros (Vacuum Planet)
+  - Kerjoonot (Gas Giant)
+    - Nidalose (Vacuum Planet)
+    - Poreabi (Vacuum Planet)
+    - Gialoo (Vacuum Planet)
+  - Secoptune (Gas Giant)
+    - Niofay (Vacuum Planet)
+    - Niodam (Vacuum Planet)
+    - Unlylo (Vacuum Planet)
+  - Eenal (Vacuum Planet)
+- Quadedentric (Red Giant)
+  - Kiho (Vacuum Planet)
+  - Rowira (Vacuum Planet)
+    - Rorouro (Vacuum Planet)
+  - Magiad (Atmospheric Planet)
+    - Intelocep (Vacuum Planet)
+    - Minolod (Vacuum Planet)
+  - Nomefa (Vacuum Planet)
+- Quadung (Protostar)
+  - Dechast (Vacuum Planet)
+  - Noviond (Vacuum Planet)
+  - Innostan (Atmospheric Planet)
+  - Mimiri (Vacuum Planet)
+  - Keproter (Atmospheric Planet)
+    - Muproteb (Vacuum Planet)
+  - Faritor (Vacuum Planet)
+- Blarodole (Black Hole)
+  - Siolese (Vacuum Planet)
+  - Hoplitrast (Vacuum Planet)
+  - Stabulide (Pulsar)
+    - Firesulsa (Vacuum Planet)
+    - Minefi (Vacuum Planet)
+    - Fapulole (Vacuum Planet)
+  - Neumack (Neutron Star)
+    - Uneustab (Vacuum Planet)
+    - Ictror (Vacuum Planet)
+  - Roximinary (Pulsar)
+    - Proxina & Proxino (Vacuum Planet, Vacuum Planet)
+    - Slentes (Vacuum Planet)
+    - Fazular (Vacuum Planet)
+  - Frogasdalole (Gas Giant)
+    - Ilayck (Vacuum Planet)
+    - Pocemi (Vacuum Planet)
+    - Frylowo (Vacuum Planet)
+  - Maricy (Vacuum Planet)
+- Blaranole (Black Hole)
+  - Eccetintrity (Pulsar)
+    - Unsaosar (Vacuum Planet)
+  - Remound (Vacuum Planet)
+    - Lima (Vacuum Planet)
+  - Lobigen & Losmen (Pulsar, Pulsar)
+    - Infaos (Vacuum Planet)
+  - Nerbole (Sun-like Star)
+    - Molole (Vacuum Planet)
+    - Hosust (Atmospheric Planet)
+    - Conolun (Atmospheric Planet)
+    - Nestidabol (Gas Giant)
+      - Laroxeven (Vacuum Planet)
+      - Bocke (Vacuum Planet)
+      - Lynoi (Vacuum Planet)
+  - Lorole (Vacuum Planet)
+- Sularenetric (Pulsar)
+  - Unstalose (Vacuum Planet)
+  - Punaro & Punara (Vacuum Planet & Vacuum Planet)
+- Weisutric (Sun-like Star)
+  - Kerarr (Vacuum Planet)
+  - Eccentariousin (Atmospheric Planet)
+  - Condasiant (Gas Giant)
+    - Lantrird (Vacuum Planet)
+    - Potimoo (Vacuum Planet)
+    - Tilos (Vacuum Planet)
+  - Smouten (Gas Giant)
+    - Crinne (Vacuum Planet)
+    - Beelop (Vacuum Planet)
+    - Tinor (Vacuum Planet)
+  - Laloo (Vacuum Planet)
+- Younoring (Protostar)
+  - Yoarr (Vacuum Planet)
+  - Ihivin (Vacuum Planet)
+  - Inamma (Atmospheric Planet)
+  - Outamma (Atmospheric Planet)
+    - Othup (Vacuum Planet)
+  - Dedrewo (Vacuum Planet)
+  - Rinounozen (Gas Giant)
+    - Thockin (Vacuum Planet)
+    - Eendrol (Vacuum Planet)
+    - Loziloo (Vacuum Planet)
+- Disject (Vacuum Planet)
+  - Fazenio (Vacuum Planet)
